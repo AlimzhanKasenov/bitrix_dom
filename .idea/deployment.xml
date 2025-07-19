@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="dom">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dom" confirmBeforeUploading="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="bitrix_edu">
         <serverdata>
@@ -68,7 +70,6 @@
             <excludedPath path="/terminal" />
             <excludedPath path="/timeman" />
             <excludedPath path="/upload" />
-            <excludedPath path="/vnd" />
             <excludedPath path="/workgroups" />
             <excludedPath local="true" path="$PROJECT_DIR$/agent_contract" />
             <excludedPath local="true" path="$PROJECT_DIR$/ai" />
@@ -123,7 +124,6 @@
             <excludedPath local="true" path="$PROJECT_DIR$/terminal" />
             <excludedPath local="true" path="$PROJECT_DIR$/timeman" />
             <excludedPath local="true" path="$PROJECT_DIR$/upload" />
-            <excludedPath local="true" path="$PROJECT_DIR$/vnd" />
             <excludedPath local="true" path="$PROJECT_DIR$/workgroups" />
           </excludedPaths>
         </serverdata>

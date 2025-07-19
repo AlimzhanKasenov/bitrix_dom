@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="dom">
+    <serverData>
+      <paths name="bitrix_edu">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dom">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/agent_contract" />
+            <excludedPath path="/ai" />
+            <excludedPath path="/apconnect" />
+            <excludedPath path="/app" />
+            <excludedPath path="/auth" />
+            <excludedPath path="/automation" />
+            <excludedPath path="/bi" />
+            <excludedPath path="/biconnector" />
+            <excludedPath path="/bitrix" />
+            <excludedPath path="/bizproc" />
+            <excludedPath path="/booking" />
+            <excludedPath path="/calendar" />
+            <excludedPath path="/call" />
+            <excludedPath path="/company" />
+            <excludedPath path="/conference" />
+            <excludedPath path="/configs" />
+            <excludedPath path="/crm" />
+            <excludedPath path="/departments" />
+            <excludedPath path="/desktop_app" />
+            <excludedPath path="/desktop_menu" />
+            <excludedPath path="/devops" />
+            <excludedPath path="/docs" />
+            <excludedPath path="/einvoice" />
+            <excludedPath path="/hr" />
+            <excludedPath path="/images" />
+            <excludedPath path="/include" />
+            <excludedPath path="/kb" />
+            <excludedPath path="/knowledge" />
+            <excludedPath path="/mail" />
+            <excludedPath path="/market" />
+            <excludedPath path="/marketing" />
+            <excludedPath path="/marketplace" />
+            <excludedPath path="/mobile" />
+            <excludedPath path="/oauth" />
+            <excludedPath path="/onec" />
+            <excludedPath path="/page" />
+            <excludedPath path="/pub" />
+            <excludedPath path="/report" />
+            <excludedPath path="/rpa" />
+            <excludedPath path="/saleshub" />
+            <excludedPath path="/search" />
+            <excludedPath path="/services" />
+            <excludedPath path="/shop" />
+            <excludedPath path="/sign" />
+            <excludedPath path="/sitemap" />
+            <excludedPath path="/sites" />
+            <excludedPath path="/spaces" />
+            <excludedPath path="/stream" />
+            <excludedPath path="/tasks" />
+            <excludedPath path="/telephony" />
+            <excludedPath path="/terminal" />
+            <excludedPath path="/timeman" />
+            <excludedPath path="/upload" />
+            <excludedPath path="/vnd" />
+            <excludedPath path="/workgroups" />
+            <excludedPath local="true" path="$PROJECT_DIR$/agent_contract" />
+            <excludedPath local="true" path="$PROJECT_DIR$/ai" />
+            <excludedPath local="true" path="$PROJECT_DIR$/apconnect" />
+            <excludedPath local="true" path="$PROJECT_DIR$/app" />
+            <excludedPath local="true" path="$PROJECT_DIR$/auth" />
+            <excludedPath local="true" path="$PROJECT_DIR$/automation" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bi" />
+            <excludedPath local="true" path="$PROJECT_DIR$/biconnector" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bizproc" />
+            <excludedPath local="true" path="$PROJECT_DIR$/booking" />
+            <excludedPath local="true" path="$PROJECT_DIR$/calendar" />
+            <excludedPath local="true" path="$PROJECT_DIR$/call" />
+            <excludedPath local="true" path="$PROJECT_DIR$/company" />
+            <excludedPath local="true" path="$PROJECT_DIR$/conference" />
+            <excludedPath local="true" path="$PROJECT_DIR$/configs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/crm" />
+            <excludedPath local="true" path="$PROJECT_DIR$/departments" />
+            <excludedPath local="true" path="$PROJECT_DIR$/desktop_app" />
+            <excludedPath local="true" path="$PROJECT_DIR$/desktop_menu" />
+            <excludedPath local="true" path="$PROJECT_DIR$/devops" />
+            <excludedPath local="true" path="$PROJECT_DIR$/docs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/einvoice" />
+            <excludedPath local="true" path="$PROJECT_DIR$/hr" />
+            <excludedPath local="true" path="$PROJECT_DIR$/images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/include" />
+            <excludedPath local="true" path="$PROJECT_DIR$/kb" />
+            <excludedPath local="true" path="$PROJECT_DIR$/knowledge" />
+            <excludedPath local="true" path="$PROJECT_DIR$/mail" />
+            <excludedPath local="true" path="$PROJECT_DIR$/market" />
+            <excludedPath local="true" path="$PROJECT_DIR$/marketing" />
+            <excludedPath local="true" path="$PROJECT_DIR$/marketplace" />
+            <excludedPath local="true" path="$PROJECT_DIR$/mobile" />
+            <excludedPath local="true" path="$PROJECT_DIR$/oauth" />
+            <excludedPath local="true" path="$PROJECT_DIR$/onec" />
+            <excludedPath local="true" path="$PROJECT_DIR$/page" />
+            <excludedPath local="true" path="$PROJECT_DIR$/pub" />
+            <excludedPath local="true" path="$PROJECT_DIR$/report" />
+            <excludedPath local="true" path="$PROJECT_DIR$/rpa" />
+            <excludedPath local="true" path="$PROJECT_DIR$/saleshub" />
+            <excludedPath local="true" path="$PROJECT_DIR$/search" />
+            <excludedPath local="true" path="$PROJECT_DIR$/services" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shop" />
+            <excludedPath local="true" path="$PROJECT_DIR$/sign" />
+            <excludedPath local="true" path="$PROJECT_DIR$/sitemap" />
+            <excludedPath local="true" path="$PROJECT_DIR$/sites" />
+            <excludedPath local="true" path="$PROJECT_DIR$/spaces" />
+            <excludedPath local="true" path="$PROJECT_DIR$/stream" />
+            <excludedPath local="true" path="$PROJECT_DIR$/tasks" />
+            <excludedPath local="true" path="$PROJECT_DIR$/telephony" />
+            <excludedPath local="true" path="$PROJECT_DIR$/terminal" />
+            <excludedPath local="true" path="$PROJECT_DIR$/timeman" />
+            <excludedPath local="true" path="$PROJECT_DIR$/upload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/vnd" />
+            <excludedPath local="true" path="$PROJECT_DIR$/workgroups" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

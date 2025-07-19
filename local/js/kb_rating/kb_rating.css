@@ -1,0 +1,6 @@
+#kb-rating .star{
+    font-size:32px; cursor:pointer; color:#bbb; transition:.2s;
+}
+#kb-rating .star.selected{color:#f5c22b;}
+#kb-rating .star:hover{color:#f9d86c;}
+#kb-rating{margin:40px 0;text-align:center;}
